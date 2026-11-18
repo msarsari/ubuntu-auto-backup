@@ -1,0 +1,10 @@
+*.sql
+*.sql.gz
+*.tar.gz
+*.log
+.env
+.env.*
+backup-client.cnf
+backups/
+__pycache__/
+*.pyc
